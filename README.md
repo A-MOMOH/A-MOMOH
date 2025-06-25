@@ -1,5 +1,5 @@
 ## Hey, I'm Amir 👋
-👨🏾‍💻 Computer Science Student at UMBC<br>
+👨🏾‍💻 Computer Science Student at @umbc <br>
 🔧 Build and code in C++ and Python<br>
 📊 Into data, devices, and real-world problem solving<br>
 🤝 Love collaborating and learning from others<br>
